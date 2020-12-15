@@ -1,0 +1,11 @@
+#Node modules
+node_modules/
+
+#Environment Variables
+config/
+
+#Directory for testing
+playground/
+
+#Umlet docs
+*.uxf
